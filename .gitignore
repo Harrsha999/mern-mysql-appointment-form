@@ -1,11 +1,8 @@
-# node_modules/
-# .env
-# client/node_modules/
-# client/build/
-# dist/
-# .DS_Store
-node_modules/
-dist/
-build/
-.env
+ node_modules/
+ .env
+ client/node_modules/
+ client/build/
+ dist/
+ .DS_Store
+
 
